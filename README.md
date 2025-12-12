@@ -158,11 +158,13 @@ urlpatterns = [
 ]
 ~~~
 ## SERVER SIDE PROCESSING:
-Screenshot 2025-12-12 104842.png
+<img width="881" height="330" alt="Screenshot 2025-12-12 104842" src="https://github.com/user-attachments/assets/a3f8ebea-877c-412d-aed6-4b78f4ca8912" />
+
 
 
 ## HOMEPAGE:
-Screenshot 2025-12-12 104711.png
+<img width="810" height="552" alt="Screenshot 2025-12-12 104711" src="https://github.com/user-attachments/assets/a69cf3df-a57d-4fca-bdd7-bb7d9d16c494" />
+
 
 
 
