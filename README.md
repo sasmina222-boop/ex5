@@ -156,10 +156,10 @@ urlpatterns = [
     path('powercalc/', views.powercalc, name="powercalculator"),
     path('', views.powercalc, name="powercalcroot"),
 ]
-
-
+~~~
 ## SERVER SIDE PROCESSING:
 Screenshot 2025-12-12 104842.png
+
 
 ## HOMEPAGE:
 Screenshot 2025-12-12 104711.png
